@@ -3210,7 +3210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9585d9a2-dba6-4e0e-b9a9-2389a3d63bbd")
-		(property "Reference" "BUZZER1"
+		(property "Reference" "PASSIVEBUZZER1"
 			(at 209.55 110.4899 0)
 			(effects
 				(font
@@ -3291,7 +3291,7 @@
 		(instances
 			(project ""
 				(path "/dda21022-0147-4ac7-b935-5203eac868ff"
-					(reference "BUZZER1")
+					(reference "PASSIVEBUZZER1")
 					(unit 1)
 				)
 			)
