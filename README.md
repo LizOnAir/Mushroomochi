@@ -1,5 +1,6 @@
 # Mushroomochi
-Instead of tamagotchi, why not grow your own mushroom?
+Instead of tamagotchi, why not grow your own mushroom? I built this because seeing other people raising their own pets, I wonder what if I raise something different? Something between animal and plants ...... that's how I got the idea of growing a **fungi** :D
+Inspired by house of Smurf lol
 
 <img width="311" height="441" alt="Screenshot 2026-04-21 at 8 47 17 AM" src="https://github.com/user-attachments/assets/01afd668-fa52-4113-a82d-6178b207a96d" />
 
